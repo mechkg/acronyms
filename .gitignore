@@ -1,0 +1,13 @@
+.cache
+.classpath
+.project
+.gwt
+war/
+.settings
+gwt-unitCache/
+classes/
+test-classes/
+target/
+bin/
+*~
+*symbolMap
